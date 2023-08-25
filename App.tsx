@@ -1,3 +1,4 @@
+import React from 'react';
 import { View, StatusBar, SafeAreaView } from 'react-native';
 import Carrinho from './src/pages/Carrinho';
 import {useFonts,
